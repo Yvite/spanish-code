@@ -1,0 +1,15 @@
+{
+    "suma": "sum",
+    "imprimir":"print",
+    "printar": "print",
+    "principal": "main",
+    "definir": "def",
+    "por": "for",
+    "cuando": "while",
+    "para": "for",
+    "en": "in",
+    "rango": "range",
+    "si": "if",
+    "sino": "else",
+    "entrada": "input"
+}
