@@ -11,5 +11,7 @@
     "rango": "range",
     "si": "if",
     "sino": "else",
-    "entrada": "input"
+    "entrada": "input",
+    "falso": "false",
+    "cierto": "true"    
 }
