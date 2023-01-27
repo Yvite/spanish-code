@@ -28,6 +28,7 @@ def spanish_excepthook(type, value, traceback):
 sys.excepthook = spanish_excepthook
 
 while True:
+    print("Note: Some commands may not work. If you get an error, try again with a different command. Type 'end command' to exit. Type 'esp end command' to exit in Spanish. (Note: This is not a complete list of Python commands.")
     user_input = input("Enter a Python function in Spanish (or type 'end command' to exit): ")
     if user_input == "esp end command":
         break
