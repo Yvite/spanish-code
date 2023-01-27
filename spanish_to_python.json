@@ -13,5 +13,9 @@
     "sino": "else",
     "entrada": "input",
     "falso": "false",
-    "cierto": "true"    
+    "cierto": "true",
+    "añadir": "append",
+    "insertar": "insert",
+    "anadir": "append",
+    "eliminar": "remove"
 }
